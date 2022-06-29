@@ -30,5 +30,8 @@ img {
 }
 
 footer {
+    font-family: 'Press Start 2P', cursive;
     text-align: center;
+    color: #D92027;
+    margin: 2% 15%;
 }
