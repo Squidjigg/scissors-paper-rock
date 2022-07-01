@@ -38,5 +38,5 @@ else if(playerNum1 === 2 && playerNum2 === 3) {
 }
 else if (playerNum1 === playerNum2) {
     // draw
-    document.querySelector("h1").textContent = "Draw!"
+    document.querySelector("h1").textContent = "😲 Draw! 😲"
 }
