@@ -15,6 +15,8 @@ h1 {
     font-family: 'Rubik Mono One', sans-serif;
     font-size: 4rem;
     color: #D92027;
+    /* color: #FCF93F; */
+    text-shadow: 3px 3px #FCF93F;
 }
 
 body {
